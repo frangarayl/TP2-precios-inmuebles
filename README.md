@@ -21,8 +21,8 @@
 * Reducción de dimensionalidad (PCA)
 
 ### 2. Modelos de aprendizaje
-* Baselines: Arboles, KNN, Regresión lineal
+* Baseline: Arboles, KNN, Regresión lineal
 * Modelos avanzados: XGBoost & Random Forest con RandomSearch CV
 * Regresión Avanzada: Polynomial features, Ridge, Lasso y Elastic Net
 * Comparativa de modelos
-* Justificacion de modelo elegido y comparacion con tp1
+* Justificacion de modelo elegido y comparación con tp1
